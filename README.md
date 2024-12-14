@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá rede. Entrei no mundo da Tecnologia em 2022 através de um curso rápido de Front-End e iniciei uma graduação em julho de 2023 na UNIVESP. Atualmente, faço também o curso técnico em ADS pelo SENAI-SP.<br>Com a jornada pela TI, trabalhei com diversas ferramentas importantes no Mercado de Trabalho. Algumas ferramentas: desenvolvimento web front-end (HTML, Css e Javascript), desenvolvimento back-end (Nodemon, express e node.js) e desenvolvimento mobile utilizando o framework React Native.<br>
+Olá rede. Entrei no mundo da Tecnologia em 2022 através de um curso rápido de Front-End, sendo a ponte de interesse para a área. Iniciei o curso de Bacharelado em Ciência de Dados em julho de 2023 pela UNIVESP. Atualmente, faço também o curso técnico em ADS pelo SENAI-SP.<br>Com a jornada pela TI, trabalhei com diversas ferramentas importantes no Mercado de Trabalho. Algumas ferramentas no desenvolvimento web front-end (HTML, Css e Javascript), desenvolvimento back-end (Nodemon, express e node.js) e desenvolvimento mobile (React Native). <br>
 
 
 ## 🌐 Socials:
